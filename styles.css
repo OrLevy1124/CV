@@ -1,0 +1,51 @@
+body{
+    background:linear-gradient(to top left,rgb(255, 247, 194), white);
+}
+
+#name{
+    color:rgb(32, 79, 96);
+    font-size: 4em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.headP{
+    color:rgb(33, 113, 141);
+    font-family:arial;
+}
+
+
+h1,li{
+    color:rgb(33, 113, 141);
+    font-family:Arial;
+    
+}
+
+.listHeads{
+    font-size:35px;
+}
+
+
+.listItems{
+    font-size:17px;
+}
+
+.workPlaces{
+    color:rgb(42, 183, 234);
+    font-size:0.8em;
+}
+
+.EducationTH{
+    font-family:arial;
+    font-size:1.3em;
+    padding:15px;
+    background-color:lightblue;    
+}
+
+.EducationTD{
+    font-family:arial;
+    font-size:0.9em;
+    padding:15px;
+    background-color:rgb(234, 242, 255);
+
+}
+
